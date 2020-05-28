@@ -1,0 +1,3 @@
+rootProject.name='FrameTest'
+include ':app', ':lib_api', ':lib_refresh'
+include ':common'
